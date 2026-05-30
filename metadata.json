@@ -1,0 +1,6 @@
+{
+  "name": "Financial API Engine",
+  "description": "A high-performance financial API system in Kotlin for market data, pricing, portfolio analytics, and parametric & simulated risk modelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
